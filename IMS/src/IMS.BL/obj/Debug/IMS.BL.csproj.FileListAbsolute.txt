@@ -1,0 +1,5 @@
+C:\Users\Stephen\source\repos\IMS\src\IMS.BL\obj\Debug\IMS.BL.csproj.CoreCompileInputs.cache
+C:\Users\Stephen\source\repos\IMS\src\IMS.BL\bin\Debug\IMS.BL.dll
+C:\Users\Stephen\source\repos\IMS\src\IMS.BL\bin\Debug\IMS.BL.pdb
+C:\Users\Stephen\source\repos\IMS\src\IMS.BL\obj\Debug\IMS.BL.dll
+C:\Users\Stephen\source\repos\IMS\src\IMS.BL\obj\Debug\IMS.BL.pdb
